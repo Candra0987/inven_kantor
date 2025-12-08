@@ -1,1 +1,2 @@
-Inventaris dengan MVC :D
+
+![inventaris](Ss.png)
